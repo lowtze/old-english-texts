@@ -1,2 +1,3 @@
 # old-english-texts
- Hand OCR'ed Old English Texts
+
+A collection of Old English texts in Markdown format.
